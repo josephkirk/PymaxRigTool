@@ -1,5 +1,5 @@
 --import
-fileIn "javascripts/Java_lib.ms"
+fileIn "rigscripts/libs.ms"
 --main
 clearListener()
 try (CloseRolloutFloater JavaRig_RF) catch()
